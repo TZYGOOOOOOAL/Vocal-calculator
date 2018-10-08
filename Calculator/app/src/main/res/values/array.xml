@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="button_id">
+        <item>@id/button_AC</item>
+        <item>@id/button_bracket_left</item>
+        <item>@id/button_bracket_right</item>
+        <item>@id/button_add</item>
+        <item>@id/button_9</item>
+        <item>@id/button_8</item>
+        <item>@id/button_7</item>
+        <item>@id/button_sub</item>
+        <item>@id/button_6</item>
+        <item>@id/button_5</item>
+        <item>@id/button_4</item>
+        <item>@id/button_mul</item>
+        <item>@id/button_3</item>
+        <item>@id/button_2</item>
+        <item>@id/button_1</item>
+        <item>@id/button_div</item>
+        <item>@id/button_0</item>
+        <item>@id/button_point</item>
+        <item>@id/button_ans</item>
+        <item>@id/button_equ</item>
+    </integer-array>
+
+    <string-array name="button_words">
+        <item>C</item>
+        <item>(</item>
+        <item>)</item>
+        <item>+</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>-</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>×</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>÷</item>
+        <item>0</item>
+        <item>.</item>
+        <item>ANS</item>
+        <item>=</item>
+    </string-array>
+
+    <string-array name="speaker_words">
+        <item>清除</item>
+        <item>括号</item>
+        <item>括号</item>
+        <item>加</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>减</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>乘</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>除以</item>
+        <item>0</item>
+        <item>点</item>
+        <item>ANS</item>
+        <item>等于</item>
+    </string-array>
+</resources>
